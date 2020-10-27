@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Section 2
+title: PATTERNS
+parent: DESIGN
 has_children: true
 has_toc: true
 ---
 
-section 2 index
+**PATTERNS**
