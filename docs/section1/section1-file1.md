@@ -14,7 +14,7 @@ has_toc: true
 1. TOC
 {:toc}
 </details>
-<br />
+<hr />
 
 # Heading 1.1
 adasd
