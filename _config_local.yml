@@ -1,9 +1,9 @@
-title: darrelln
+title: darrelln.github.io/dev/
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  </>
+  This is my description.
 baseurl: ""
 url: ""
 theme: "just-the-docs"
 search_enabled: true
-color_scheme: dark
+color_scheme: light
