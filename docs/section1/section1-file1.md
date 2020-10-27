@@ -2,7 +2,6 @@
 layout: default
 title: Section 1 File 1
 parent: SECTION 1
-nav_order: 1
 has_toc: true
 ---
 
