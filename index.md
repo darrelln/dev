@@ -5,7 +5,3 @@
 layout: home
 has_toc: true
 ---
-
-Testing...
-
-More testing.
