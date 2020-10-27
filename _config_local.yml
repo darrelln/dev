@@ -1,5 +1,9 @@
+title: darrelln
+email: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  </>
 baseurl: ""
 url: ""
 theme: "just-the-docs"
-
 search_enabled: true
+color_scheme: dark
