@@ -3,7 +3,7 @@ layout: default
 title: Virtual Environments
 parent: PYTHON
 has_children: false
-has_toc: true
+has_toc: false
 ---
 
 {% include toc.html %}
