@@ -1,3 +1,5 @@
 baseurl: ""
 url: ""
 theme: "just-the-docs"
+
+search_enabled: true
