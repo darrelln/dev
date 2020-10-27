@@ -1,15 +1,36 @@
+// Variables.
+$text-color-primary: #32325d;
+
+// ToC, headers, body text etc
+html, body, h1, h2, h3, h4, h5, h6, pre {
+    color: $text-color-primary;
+}
+
 // Change title attributes.
 .site-title {
     font-size: 16px !important;
     font-weight: 600 !important;
+    color: $text-color-primary;
 }
 
-// Change color or section expander up/down arrows.
+// Section titles.
+.nav-list-link {
+    font-weight: 600;
+    color: $text-color-primary;
+}
+
+// Change color of section expander up/down arrows.
 .nav-list .nav-list-item .nav-list-expander {
-    color: #000;
+    color: $text-color-primary;
 }
 
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-link.active {
+    color: $text-color-primary;
+}
+
+// Anchors.
 a {
-    color: #000;
+    color: $text-color-primary;
     text-decoration: none;
 }

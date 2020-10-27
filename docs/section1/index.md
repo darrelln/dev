@@ -6,4 +6,6 @@ has_children: true
 has_toc: true
 ---
 
-section 1 index page
+**SECTION 1**
+
+Some blurb about section 1.

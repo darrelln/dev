@@ -6,15 +6,7 @@ nav_order: 1
 has_toc: true
 ---
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-<hr />
+{% include toc.html %}
 
 # Heading 1.1
 adasd
