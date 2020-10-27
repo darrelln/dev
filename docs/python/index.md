@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Python
+title: PYTHON
 has_children: true
 has_toc: true
 ---
 
-**Python**
+**PYTHON**

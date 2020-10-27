@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Virtual Environments
-parent: Python
+parent: PYTHON
 has_children: false
 has_toc: true
 ---
